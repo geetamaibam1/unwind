@@ -1,0 +1,79 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css");
+.large{
+    color:#0d3a8d;
+    font-size:30px;
+    margin-top: -0.8rem;
+    text-decoration:none;
+}
+.icon{
+    color:#666;
+    margin-top: 1rem;
+}
+.signup-btn{
+    padding: 2px 4px;
+    margin-top: 9px;
+}
+.signup-btn:hover{
+    background-color: grey;
+    color:#fff;
+    border:none;
+}
+.hr-tag{
+    width:83%;
+    color:grey;
+    margin:auto;
+}
+.nav li a{
+    color:#333;
+}
+.nav li a:hover{
+    text-decoration:underline;
+    color:#333;
+}
+.section1 h2{
+    font-style:italic;
+    font-size:50px;
+    font-family:serif;
+    font-weight:bold;
+}
+.section1 p{
+    line-height:35px;
+    font-size:20px;
+}
+.section1 a{
+    color:#fff;
+    font-size:20px;
+    font-weight:bold;
+}
+.section2-link{
+    text-decoration:none;
+}
+.section2-link:hover{
+    text-decoration:underline;
+}
+.thumbnail-text{
+    font-size:22px;
+    font-weight:bold;
+    padding-left:10%;
+    padding-top:20%;
+}
+.subhead{
+    font-family: serif;
+    font-size:30px;
+    font-style:italic;
+    font-weight:bold;
+}
+.hr-tag2{
+    width:54%;
+    text-align:left;
+    margin-left:8%;
+}
+.hr-tag3{
+    width:99%;
+}
+.about-div{
+    margin-top: -70px;
+}
+.authorsLink:hover{
+    text-decoration-style:underline;
+}
